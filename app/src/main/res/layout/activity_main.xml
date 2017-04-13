@@ -9,7 +9,7 @@
     android:layout_weight="100"
     android:orientation="vertical"
     android:paddingTop="@dimen/activity_vertical_margin"
-    tools:context="com.example.deepak.Bajao.MainActivity"
+    tools:context="com.prashant.Bajao.MainActivity"
     android:background="@color/cardview_dark_background">
 
     <android.support.v7.widget.RecyclerView
