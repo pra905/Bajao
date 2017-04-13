@@ -19,10 +19,6 @@ import android.util.Log;
 import java.util.ArrayList;
 import java.util.Random;
 
-/**
- * Created by deepak on 11/14/2016.
- */
-
 public class MusicService extends Service implements
         MediaPlayer.OnPreparedListener, MediaPlayer.OnErrorListener,
         MediaPlayer.OnCompletionListener {

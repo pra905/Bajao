@@ -2,10 +2,6 @@ package com.prashant.Bajao;
 
 import java.util.ArrayList;
 
-/**
- * Created by deepak on 11/13/2016.
- */
-
 public class Song {
     long id;
     String title;
